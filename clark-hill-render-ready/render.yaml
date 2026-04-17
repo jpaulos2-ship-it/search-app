@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: clark-hill-search-app
-    env: node
-    plan: free
-    buildCommand: npm install
-    startCommand: npm start
